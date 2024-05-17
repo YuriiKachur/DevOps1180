@@ -1,5 +1,5 @@
 #!/bin/bash 
-COUNTER=0 
+COUNTER=1000000000000000000000000 
 while [ $COUNTER -lt 10 ] 
 do 
    echo The counter is $COUNTER 
